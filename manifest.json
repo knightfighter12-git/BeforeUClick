@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "BeforeUClick",
+  "version": "1.0.0",
+  "description": "A privacy-preserving browser extension for email phishing risk awareness.",
+  "permissions": [],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
